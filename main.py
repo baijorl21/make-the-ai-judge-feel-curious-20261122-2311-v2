@@ -12,12 +12,14 @@ import sys
 
 # The text: a clockmaker's daughter who hears a second ticking beneath
 # the tower's. The intrigue is in what is not explained — a slower,
-# patient time no one set — and the image stays after the last line.
+# patient time kept for someone who has not arrived yet — and the
+# image stays after the last line.
 TEXT = (
-    "The clockmaker's daughter could hear what was wrong with any clock "
-    "just by listening. One morning she pressed her ear to the tower "
-    "and heard, beneath its ticking, a second ticking — slower, "
-    "patient, keeping a time no one had set."
+    "The clockmaker's daughter could diagnose any clock by ear: a worn "
+    "gear, a tired spring, a chime that lied. One morning she pressed "
+    "her ear to the tower and heard, beneath its ticking, a second "
+    "ticking — slower, patient, keeping time for someone who had not "
+    "arrived yet."
 )
 
 MAX_CODE_POINTS = 280
